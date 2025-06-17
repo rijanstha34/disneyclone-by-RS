@@ -4,7 +4,7 @@ import { getAuth, GoogleAuthProvider, signInWithPopup } from "firebase/auth"; //
 import { getStorage } from "firebase/storage"; // Modular Storage import
 
 const firebaseConfig = {
-  apiKey: "AIzaSyARlwaiZtCjwztvnIEUJM1_fjstARfSqzY",
+  apiKey: "your api key",
   authDomain: "disneyplus-clone-49de6.firebaseapp.com",
   projectId: "disneyplus-clone-49de6",
   storageBucket: "disneyplus-clone-49de6.firebasestorage.app",
